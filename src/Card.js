@@ -1,8 +1,5 @@
 import star from "./star.png"
-import katie from "./katie-zaferes.png"
-import wedding from "./wedding-photography.png"
-import Mountain from "./mountain-bike.png"
-import images from "../images"
+
 function Card(props){
     return(
         <div className="card">
